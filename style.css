@@ -30,7 +30,7 @@ body {
   position: relative;
   overflow-y: auto;
   height: 100vh;
-  padding-bottom: 80px; /* To ensure content is above the fixed footer-nav */
+  padding-bottom: 80px;
 }
 
 .header {
@@ -159,7 +159,7 @@ body {
 .additional-banner1 {
   width: 416px;
   height: 119px;
-  background: url("images/bannerbg1.png") center center/cover no-repeat;
+  background: url("bannerbg1.png") center center/cover no-repeat;
   border-radius: 15px;
   position: relative;
   margin: 20px auto;
@@ -181,7 +181,7 @@ body {
 .additional-banner2 {
   width: 416px;
   height: 119px;
-  background: url("images/bannerbg2.png") center center/cover no-repeat;
+  background: url("bannerbg2.png") center center/cover no-repeat;
   border-radius: 15px;
   position: relative;
   margin: 20px auto;
@@ -215,7 +215,7 @@ body {
 .additional-banner3 {
   width: 416px;
   height: 119px;
-  background: url("images/bannerbg3.png") center center/cover no-repeat;
+  background: url("bannerbg3.png") center center/cover no-repeat;
   border-radius: 15px;
   position: relative;
   margin: 20px auto;
