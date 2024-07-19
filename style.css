@@ -376,10 +376,10 @@ body {
   }
 
   .search-nearby {
-    width: 82px; 
-    height: 82px;
+    width: 85px; 
+    height: 85px;
     right: 10px; 
-    bottom: 15px; 
+    bottom: 18px; 
   }
 
   .search-nearby .search-nearby-text .large-text {
