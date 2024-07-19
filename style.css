@@ -351,6 +351,10 @@ body {
     padding: 0 21 0 0px; 
   }
 
+  .lounge-logo2 {
+    left: 21px;
+  }
+
   .main-banner {
     width: 100%;
     padding: 0 21 0 0px; 
@@ -372,10 +376,10 @@ body {
   }
 
   .search-nearby {
-    width: 80px; 
-    height: 80px;
+    width: 82px; 
+    height: 82px;
     right: 10px; 
-    bottom: 10px; 
+    bottom: 15px; 
   }
 
   .search-nearby .search-nearby-text .large-text {
