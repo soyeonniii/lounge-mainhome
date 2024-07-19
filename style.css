@@ -352,7 +352,7 @@ body {
   }
 
   .lounge-logo2 {
-    right: 21px;
+    right: 35px;
   }
 
   .main-banner {
@@ -378,8 +378,8 @@ body {
   .search-nearby {
     width: 85px; 
     height: 85px;
-    right: 10px; 
-    bottom: 18px; 
+    right: 8px; 
+    bottom: 15px; 
   }
 
   .search-nearby .search-nearby-text .large-text {
